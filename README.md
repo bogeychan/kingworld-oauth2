@@ -1,4 +1,4 @@
-# @bogeychan/kingworld-oauth2
+## ⚠️ KingWorld is now ["Elysia"](https://github.com/elysiajs/elysia) therefore @bogeychan/kingworld-oauth2 moved to a new repo [@bogeychan/elysia-oauth2](https://github.com/bogeychan/elysia-oauth2)
 
 A plugin for [kingworld](https://github.com/saltyaom/kingworld) for server-side [OAuth 2.0 Authorization Code Flow](https://www.oauth.com/oauth2-servers/server-side-apps/authorization-code/)
 
